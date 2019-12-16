@@ -1,4 +1,4 @@
-## Awesome FHE Research
+# Awesome FHE Research
 
 ![Research-FHE](https://github.com/arupmondal-cs/Research-FHE/blob/master/Research-FHE.jpg)
 
