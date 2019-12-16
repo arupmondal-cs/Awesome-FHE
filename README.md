@@ -10,8 +10,8 @@ Please feel free to do a pull request with any FHE software or resource you know
 
 ## **```CONTENTS```**
 
-  * THEORY
-    * ARTICLES
-    * BOOKS
-    * TUTORIALS
-    * COURSES
+  * [THEORY](#THEORY)
+    * [ARTICLES](#ARTICLES)
+    * [BOOKS](#BOOKS)
+    * [TUTORIALS](#TUTORIALS)
+    * [COURSES](COURSES)
