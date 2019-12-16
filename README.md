@@ -1,6 +1,6 @@
 # Awesome FHE Research
 
-![Research-FHE](https://github.com/arupmondal-cs/Research-FHE/blob/master/Research-FHE.jpg)
+![Research-FHE](https://github.com/arupmondal-cs/Research-FHE/blob/master/Research-FHE.png)
 
 This writing was inspired from [awesome](https://github.com/sindresorhus/awesome), [awesome-mpc](https://github.com/arupmondal-cs/awesome-mpc), and [awesome-cryptography](https://github.com/arupmondal-cs/awesome-cryptography) and for our Cryptography research community.
 
