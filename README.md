@@ -30,11 +30,17 @@ Please feel free to do a pull request with any FHE software or resource you know
     * [FHEW/TFHE](#FHEW/TFHE)
     * [HEAAN](#HEAAN)
     * [NFLlib](#NFLlib)
+      * [HEAT](#HEAT1)
+      * [HEAT](#HEAT2)
     * [cuHE](#cuHE)
     * [SWIFFT](#SWIFFT)
     * [Lol](#Lol)
+    * [Lattigo](#Lattigo)
 
 
  
 
 ## THEORY
+
+
+## FHE-TIMELINE
