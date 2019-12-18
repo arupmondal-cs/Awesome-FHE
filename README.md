@@ -69,11 +69,18 @@ Gentry’s first FHE scheme motivated a large amount of research in the area, ma
 ## PRE-FHE
 
  * Ronald Rivest, Leonard Adleman and Mike Dertouzos  
-   **On Data Banks and Privacy Homomorphisms** [[pdf](http://people.csail.mit.edu/rivest/RivestAdlemanDertouzos-OnDataBanksAndPrivacyHomomorphisms.pdf)]
+   **_On Data Banks and Privacy Homomorphisms_** [[pdf](http://people.csail.mit.edu/rivest/RivestAdlemanDertouzos-OnDataBanksAndPrivacyHomomorphisms.pdf)]
    
- * 	Whitfield Diffie, Martin E. Hellman
-    **New directions in cryptography** [[pdf](https://ee.stanford.edu/~hellman/publications/24.pdf)]
+ * Whitfield Diffie, Martin E. Hellman  
+    **_New directions in cryptography_** [[pdf](https://ee.stanford.edu/~hellman/publications/24.pdf)]
  
- * 
+ * Ronald L. Rivest, Adi Shamir, Leonard M. Adleman  
+    **_A Method for Obtaining Digital Signatures and Public-Key Cryptosystems_** [[pdf](https://people.csail.mit.edu/rivest/Rsapaper.pdf)]
+    
+ * Shafi Goldwasser and Silvio Micali  
+   **_Probabilistic Encryption_** [[pdf](http://groups.csail.mit.edu/cis/pubs/shafi/1984-jcss.pdf)]
+ 
+ * Taher El Gamal
+   **_A Public-key Cryptosystem and a Signature Scheme based on Discrete Logarithms_** [[pdf](https://link.springer.com/chapter/10.1007/3-540-39568-7_2)]
    
 
