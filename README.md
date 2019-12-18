@@ -47,9 +47,9 @@ Please feel free to do a pull request with any FHE software or resource you know
 
 In fact, all these different HE attempts can neatly be categorized under three types of schemes with respect to the number of allowed operations on the encrypted data as follows:
 
- * [Partially Homomorphic Encryption (PHE)]
- * [Somewhat Homomorphic Encryption (SWHE)]
- * [Fully Homo-morphic Encryption (FHE)]
+ * Partially Homomorphic Encryption (PHE)
+ * Somewhat Homomorphic Encryption (SWHE)
+ * Fully Homo-morphic Encryption (FHE)
 
 The following [Figure](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/HE-TIMELINE.png) shows the Timeline of Homomorphic Encryption(HE) schemes until Gentry’s first Fully-Homomorphic Encryption (FHE) scheme.
 
@@ -57,6 +57,11 @@ The following [Figure](https://github.com/arupmondal-cs/Research-FHE/blob/master
 ![HE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/HE-TIMELINE.png)
 
 Gentry’s first FHE scheme motivated a large amount of research in the area, mainly with the purpose of improving the efficiency of the original scheme. A Evolution of this research is presented in the following [Figure](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/FHE-EVOLUATION.png), with the most relevant references.
+
+ * Ideal lattice based (Ideal)
+ * Approximate Greatest Common Divisor (AGCD)
+ * Learning With Errors (LWE)
+ * Number Theory Research Unit (NTRU)
 
 ![FHE EVOL](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/FHE-EVOLUATION.png)
 
