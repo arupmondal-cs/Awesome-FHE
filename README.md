@@ -89,7 +89,7 @@ Gentry’s first FHE scheme motivated a large amount of research in the area, ma
  * Ivan Damgard and Mads Jurik
    **_A Generalisation, a Simplification and Some Applications of Paillier's Probabilistic Public-Key System_** [[pdf](http://www.brics.dk/RS/00/45/)]
    
- * Dan Boneh, Eu Jin Goh and Kobbi Nissim
+ * Dan Boneh, Eu Jin Goh and Kobbi Nissim  
    **_Evaluating 2-DNF Formulas on Ciphertexts_** [[pdf](http://crypto.stanford.edu/~dabo/abstracts/2dnf.html)]
    
 
