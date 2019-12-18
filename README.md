@@ -17,7 +17,7 @@ Please feel free to do a pull request with any FHE software or resource you know
     * [COURSES](COURSES)
     
   * [FHE-TIMELINE](#FHE-TIMELINE)
-    * [PRE-FHE](#PRE-FHE)
+    * [PRE-FHE](#PRE-FHE-RESEARCH)
     * [FIRST-GENERATION](#FIRST-GENERATION)
     * [SECOND-GENERATION](#SECOND-GENERATION)
     * [THIRD-GENERATION](#THIRD-GENERATION)
