@@ -69,6 +69,11 @@ Gentry’s first FHE scheme motivated a large amount of research in the area, ma
 ## PRE-FHE
 
  * Ronald Rivest, Leonard Adleman and Mike Dertouzos  
-   **On Data Banks and Privacy Homomorphisms** [[ pdf ](http://people.csail.mit.edu/rivest/RivestAdlemanDertouzos-OnDataBanksAndPrivacyHomomorphisms.pdf)]
+   **On Data Banks and Privacy Homomorphisms** [[pdf](http://people.csail.mit.edu/rivest/RivestAdlemanDertouzos-OnDataBanksAndPrivacyHomomorphisms.pdf)]
+   
+ * 	Whitfield Diffie, Martin E. Hellman
+    **New directions in cryptography** [[pdf](https://ee.stanford.edu/~hellman/publications/24.pdf)]
+ 
+ * 
    
 
