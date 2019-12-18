@@ -45,6 +45,6 @@ Please feel free to do a pull request with any FHE software or resource you know
 
 ## FHE-TIMELINE
 
-[![FHE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/FHE-TIMELINE.png)](#TIME)
+The following figure shows the Evolution of Homomorphic Encryption(HE) schemes until Gentry’s first Fully-Homomorphic Encryption (FHE) scheme.
 
-The above #TIME
+![FHE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/FHE-TIMELINE.png)
