@@ -45,6 +45,13 @@ Please feel free to do a pull request with any FHE software or resource you know
 
 ## FHE-TIMELINE
 
+In fact, all these different HE attempts can neatly be categorized under three types of schemes with respect to the number of allowed operations on the encrypted data as follows:
+
+ * [Partially Homomorphic Encryption (PHE)]
+ * [Somewhat Homomorphic Encryption (SWHE)]
+ * [Fully Homo-morphic Encryption (FHE)]
+
 The following figure shows the Evolution of Homomorphic Encryption(HE) schemes until Gentry’s first Fully-Homomorphic Encryption (FHE) scheme.
+
 
 ![FHE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/FHE-TIMELINE.png)
