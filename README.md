@@ -15,6 +15,24 @@ Please feel free to do a pull request with any FHE software or resource you know
     * [BOOKS](#BOOKS)
     * [TUTORIALS](#TUTORIALS)
     * [COURSES](COURSES)
+    
+  * [FHE TIMELINE](#FHE TIMELINE)
+   * [PRE-FHE](#PRE-FHE)
+   * [FIRST GENERATION](#FIRST GENERATION)
+   * [SECOND GENERATION](#SECOND GENERATION)
+   * [THIRD GENERATION](#THIRD GENERATION)
+   * [SURVEY](#SURVEY)
+   
+  * [OPEN SOURCE SOFTWARE](#OPEN SOURCE SOFTWARE)
+   * [HElib](#HElib)
+   * [SEAL](#SEAL)
+   * [PALISADE](#PALISADE)
+   * [FHEW/TFHE](#FHEW/TFHE)
+   * [HEAAN](#HEAAN)
+   * [NFLlib](#NFLlib)
+   * [cuHE](#cuHE)
+   * [SWIFFT](#SWIFFT)
+   * [Lol](#Lol)
 
 
  
