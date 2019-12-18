@@ -96,5 +96,12 @@ Gentry’s first FHE scheme motivated a large amount of research in the area, ma
  
  
  ## OPEN-SOURCE SOFTWARE
+ 
+ Here I tried to reference the most recent article found on specific software since enumerating all changes including the original paper is too cumbersome.
+ 
+ ## HElib
+ 
+ Implementing Homomorphic Encryption
+ An early and widely used library from IBM that supports the BGV scheme and bootstrapping.
    
 
