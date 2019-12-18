@@ -1,6 +1,6 @@
 # Awesome FHE Research
 
-![Research-FHE](https://github.com/arupmondal-cs/Research-FHE/blob/master/Research-FHE.png)
+![Research-FHE](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/Research-FHE.png)
 
 This writing was inspired from [awesome](https://github.com/sindresorhus/awesome), [awesome-mpc](https://github.com/arupmondal-cs/awesome-mpc), and [awesome-cryptography](https://github.com/arupmondal-cs/awesome-cryptography) and for our Cryptography research community.
 
@@ -51,7 +51,12 @@ In fact, all these different HE attempts can neatly be categorized under three t
  * [Somewhat Homomorphic Encryption (SWHE)]
  * [Fully Homo-morphic Encryption (FHE)]
 
-The following figure shows the Evolution of Homomorphic Encryption(HE) schemes until Gentry’s first Fully-Homomorphic Encryption (FHE) scheme.
+The following [Figure](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/HE-TIMELINE.png) shows the Timeline of Homomorphic Encryption(HE) schemes until Gentry’s first Fully-Homomorphic Encryption (FHE) scheme.
 
 
-![FHE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/FHE-TIMELINE.png)
+![HE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/HE-TIMELINE.png)
+
+Gentry’s first FHE scheme motivated a large amount of research in the area, mainly with the purpose of improving the efficiency of the original scheme. A Evolution of this research is presented in the following [Figure](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/FHE-EVOLUATION.png), with the most relevant references.
+
+![FHE EVOL](https://github.com/arupmondal-cs/Research-FHE/blob/master/Figure/FHE-EVOLUATION.png)
+
