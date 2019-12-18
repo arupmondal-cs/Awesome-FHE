@@ -44,3 +44,5 @@ Please feel free to do a pull request with any FHE software or resource you know
 
 
 ## FHE-TIMELINE
+
+![FHE Timeline](https://github.com/arupmondal-cs/Research-FHE/blob/master/FHE-TIMELINE.png)
